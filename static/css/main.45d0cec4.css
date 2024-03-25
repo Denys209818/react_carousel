@@ -1,0 +1,2 @@
+.root{display:block;height:100%;position:relative;width:100%}.Carousel{overflow:hidden}.Carousel__list{display:flex;list-style-type:none;padding:0;transition:transform .3s ease-in-out}.App,.Carousel__img,.Carousel__item{display:block}.App{border:1px solid #000;left:50%;padding:30px;position:absolute;top:50%;transform:translate(-50%,-50%)}.form-input{display:flex;flex-direction:column;gap:10px;max-width:150px;padding-bottom:20px}
+/*# sourceMappingURL=main.45d0cec4.css.map*/
