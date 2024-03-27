@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}.root{display:block;height:100%;position:relative;width:100%}.Carousel{overflow:hidden}.Carousel__list{display:flex;list-style-type:none;padding:0;transition:transform .3s ease-in-out}.Carousel__img{transition:opacity .3s ease-in-out}.App{border:1px solid #000;display:block;left:50%;padding:30px;position:absolute;top:50%;transform:translate(-50%,-50%)}.form-input{display:flex;flex-direction:column;gap:10px;max-width:150px;padding-bottom:20px}.form-input--check{flex-direction:row}
+/*# sourceMappingURL=main.4161e7a3.css.map*/
